@@ -87,16 +87,31 @@ Despúes de clonar este repositorio, para poder ejecutar este ejercicio en parti
 
 -   Ejecución: Sort En Lista Enlazada Doble
 
-Más arriba hacemos mencion de que solo necesita ejecutar el programa para poder tener una vision amplia de la resolución del ejercicio, y es verdad, pero podemos pasar a detallar un poco, y es que en la primera parte de la clase Main, declaramos 3 arreglos de tipo entero, ellos alamcenaran las alturas de cada cilindro, mas adelante con ayuda de metodos adicionales que implementamos es que llenamos de forma interactiva cada arreglo (imprimiendo las indicaciones del caso):
-
 <div align="center">
 
-![Ejecucion](Imagenes%20para%20informe//Ejercicio1-ejecuci%C3%B3n.png)
+![Ejecucion](Imagenes%20para%20informe//imagen1.png)
 </div>
 
 
 #
 ### Ejercicio 2
+
+-   ¿Como puedo compilar este ejercicio correctamente en mi pc?
+
+Despúes de clonar este repositorio, para poder ejecutar este ejercicio en particular es recomendable que se ejecute desde el IDE eclipse, pues su desarrollo se dio en este,y por ello mismo es que se subieron tambien los archivos necesarios para ejecutarse ahí. Como tarea adicional debemos de agregar el archivo "JavaPlot" que se encuentra en el siguiente enlace [JavaPlot.jar](https://github.com/AntonyBlanco/lab04groupEDA/tree/echecalla/JavaPlot/JavaPlot-0.5.0/dist)
+
+-   Enlace a código en GitHub de archivos principales (ListaDobleEnlazada.jar, Node, Test) para ejecutar la solución.[Ver clases Principlaes](https://github.com/AntonyBlanco/lab04groupEDA/tree/echecalla/Ejercicio2/src/LinkedListSort)
+
+-   Iniciamos La Resolución...
+
+Bien, se nos plantea implementar una lista enlazada Doble (génerica), por ello es que vamos a crear 3 clases: [ListaDobleEnlazada](https://github.com/AntonyBlanco/lab04groupEDA/blob/echecalla/Ejercicio2/src/LinkedListSort/ListaDobleEnlazada.java), [Node](https://github.com/AntonyBlanco/lab04groupEDA/blob/echecalla/Ejercicio2/src/LinkedListSort/Node.java), y [Test](https://github.com/AntonyBlanco/lab04groupEDA/blob/echecalla/Ejercicio2/src/LinkedListSort/Test.java). 
+
+-   Parte 1
+
+La Clase Node solo tiene una variante significativa en cuanto a su implememntación y es que esta tiene referencia a un nodo anterior a el, y referencia a un nodo posterior a el, lo qué basicamente se asemeja 
+
+
+
 
 Ejemplo de codigo
 ```sh
