@@ -108,8 +108,15 @@ Bien, se nos plantea implementar una lista enlazada Doble (génerica), por ello 
 
 -   Parte 1
 
-La Clase Node solo tiene una variante significativa en cuanto a su implememntación y es que esta tiene referencia a un nodo anterior a el, y referencia a un nodo posterior a el, lo qué basicamente se asemeja 
+La Clase Node solo tiene una variante significativa en cuanto a la implememntación de un nodo de una lista enlazada simple, y es que esta tienen los nodos con referencia a un nodo anterior, y tambien una referencia a un nodo posterior.
 
+```sh 
+    private Node <T> nextNode ;
+    private Node <T > previousNode ;
+
+    //getters and setters
+```
+-   Parte 2
 
 
 
