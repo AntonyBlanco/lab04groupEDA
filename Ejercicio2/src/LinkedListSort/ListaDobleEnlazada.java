@@ -8,8 +8,7 @@ public class ListaDobleEnlazada <T>{
 		this.primero= null;
 		this.ultimo=null;
 	}
-	
-	
+		
 	//Agregar Elementos a la lista
 	public void add(T dato ) {
 		Node<T> nuevo = new Node<T>();
@@ -36,5 +35,12 @@ public class ListaDobleEnlazada <T>{
 			System.out.println(actual.getData());
 			actual = actual.getNextNode();
 		}
+	}
+	
+	//Algoritmo Sort para Lista Doble
+	public void insertsort(ListaDobleEnlazada<T> ListaDoble) {
+		int key;
+		
+		
 	}
 }
