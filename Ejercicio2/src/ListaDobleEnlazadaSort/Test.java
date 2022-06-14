@@ -86,9 +86,8 @@ public class Test {
 	
 	//Mostrar arreglo
 	public static void mostrarArreglo(int [] arreglo) {
-		for (int iterable_element : arreglo) {
-			System.out.print(iterable_element + "-");
-			System.out.println("");
+		for (int i = 0; i < arreglo.length; i++) {
+			System.out.print(arreglo[i] + "-");
 		}
 	}
 	

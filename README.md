@@ -94,7 +94,7 @@ Despúes de clonar este repositorio, para poder ejecutar este ejercicio en parti
 
 
 #
-### Ejercicio 2
+### Ejercicio 2: Sort En Lista Enlazada Doble
 
 -   ¿Como puedo compilar este ejercicio correctamente en mi pc?
 
